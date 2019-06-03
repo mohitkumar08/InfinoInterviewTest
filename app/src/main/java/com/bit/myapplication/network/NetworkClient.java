@@ -1,4 +1,4 @@
-package com.bit.myapplication.service;
+package com.bit.myapplication.network;
 
 import com.bit.myapplication.BuildConfig;
 import com.facebook.stetho.okhttp3.StethoInterceptor;

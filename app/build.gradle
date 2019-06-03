@@ -47,4 +47,8 @@ dependencies {
     implementation 'com.facebook.stetho:stetho-okhttp3:1.5.0'
 
 
+    implementation 'android.arch.work:work-runtime:1.0.0-alpha06'
+
+
+
 }

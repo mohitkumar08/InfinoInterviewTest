@@ -8,8 +8,8 @@ import android.support.annotation.NonNull;
 import com.bit.myapplication.BuildConfig;
 import com.bit.myapplication.model.server.LoginRequestModel;
 import com.bit.myapplication.model.server.LoginResponseModel;
-import com.bit.myapplication.service.NetworkClient;
-import com.bit.myapplication.service.ServiceApi;
+import com.bit.myapplication.network.NetworkClient;
+import com.bit.myapplication.network.ServiceApi;
 
 import io.reactivex.SingleObserver;
 import io.reactivex.disposables.CompositeDisposable;
